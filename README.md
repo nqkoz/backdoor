@@ -10,4 +10,4 @@ Une fois la création terminée, vous allez dans le dossier dist et la backdoor 
 
 Si quelqu'un l'exécute, vous recevrez directement son historique, ses cookies, ses mots de passe, ses favoris, ses cartes de crédits, une capture de son écran, ses tokens, son ip et l'architecture de son pc
 
-Je décline toite responsabilité à propos de l'utilisation que vous pouvez faire à propos de cette backdoor, l'envoyez à quelqu'un sans son consentement est illégal, moi je m'amuse juste à programmer un peu
+Je décline toute responsabilité à propos de l'utilisation que vous pouvez faire à propos de cette backdoor, l'envoyez à quelqu'un sans son consentement est illégal, moi je m'amuse juste à programmer un peu
