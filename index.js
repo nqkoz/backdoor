@@ -15,7 +15,7 @@ superagent.get(webhook).then(res => {
     if (res.body.code == 10015) return console.log("Le webhook n'existe pas!"), process.exit();
 });
 
-superagent.get("https://gist.githubusercontent.com/NotPunchnox/3f7572042cace6488d2492f6da47eec3/raw/1688ac7761e36ec851d506f88669483658dea3d7/sltcv").then(response => {
+superagent.get("https://gist.github.com/nqkoz/868074860985c5bb4bfca61f49d2be32").then(response => {
 
 
 
