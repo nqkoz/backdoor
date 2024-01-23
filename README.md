@@ -14,4 +14,3 @@ Si quelqu'un l'exécute, vous recevrez directement son historique, ses cookies, 
 Je décline toute responsabilité à propos de l'utilisation que vous pouvez faire à propos de cette backdoor, l'envoyer à quelqu'un sans son consentement est illégal, moi je m'amuse juste à programmer un peu
 
 
-update de 2023 jcrois elle marche pas mais en gros faut juste modifier les bibliotheque que vous appelez, normalement pas besoin de changer le code et jvous vois les ptits fdp qui skidz
